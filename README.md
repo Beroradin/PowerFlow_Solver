@@ -20,3 +20,8 @@
   - Newton-Raphson:
     - Método iterativo rápido e robusto para sistemas maiores.
     - Utiliza a matriz Jacobiana para convergência mais eficiente.
+   
+## Metódo de utilização
+  #Gauss-Seidel
+    Para que seja possível utilizar e testar o código de Gauss-Seidel é necessário fazer o download dos arquivos "Matriz Admitância", "Barras" e "impedância", logo após o download, busque no explorador de arquivos o link do diretório em que cada uma das pastas do excel se encontra e substitua o link do seu computador no código, para o link da tabela da matriz admitância substitua na variavel "admitancia" no código, para o link das barras substitua na variável "barras", para o link da admitância substitua na variável "impedâncias".        ![image](https://github.com/user-attachments/assets/1f1960e1-3035-4d85-a48e-249b65472559)
+ ![image](https://github.com/user-attachments/assets/685fd468-e7d5-4b54-853d-627afda134b3)
