@@ -30,3 +30,7 @@
  
  ![Captura de Tela (62)](https://github.com/user-attachments/assets/01c60a0f-fd32-430b-84bf-204fc05e9ade)
 
+  # Newton-Raphson
+
+  Para que seja possível utilizar e testar o código de Newton-Raphson é necessário possuir o Python versão 3.00 ou superior e possuir as bibliotecas Numpy e Scipy instaladas. Caso dê algum erro, é devido a aleatoriedade da matriz esparsa.
+
